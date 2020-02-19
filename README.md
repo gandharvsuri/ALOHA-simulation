@@ -1,4 +1,4 @@
 #ALOHA simulation
 
 Assignment for NC 601, IIIT-Bangalore.
-guide: Prof D.Das.
+Guide: Prof D.Das.
